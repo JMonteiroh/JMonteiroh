@@ -1,9 +1,13 @@
 ### Olá! Eu sou João Paulo Monteiro
 
 🚗 - Atualmente trabalho como Motorista de Aplicativo.
-🌱 - Estou estudando NodeJs, ReactJs, MySQL, SQLite3...
+
+🌱 - Estou estudando NodeJs, ReactJs, MySQL, SQLite3 ...
+
 📖 - Estou estudando inglês.
+
 🤔 - Estou a procura de uma oportunidade como Desenvolvedor Full stack.
+
 ⚡ - Sou formado em Gestão de Qualidade, tenho conhecimento em ferramentas da qualidade, que pode ser aplicadas no dia a dia do dev, em tomada de decisões, etc.
 
 <hr />
