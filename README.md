@@ -43,4 +43,4 @@
 </div>
 
 
-![snake animation](https://github.com/JMonteiroh)
+![snake gif](https://github.com/JMonteiroh/JMonteiroh/blob/output/github-contribution-grid-snake.svg)
