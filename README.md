@@ -2,7 +2,7 @@
 
 🚗 - Atualmente trabalho como Motorista de Aplicativo.
 
-🌱 - Estou estudando NodeJs, ReactJs, MySQL, SQLite3 ...
+🌱 - Estou estudando NodeJs, ReactJs, MySQL, SQLite3, Angular, Java, SpringBoot.
 
 📖 - Estou estudando inglês.
 
